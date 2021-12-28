@@ -1,6 +1,7 @@
 # rsschool-cv
 ## Tatsiana Bas (Lazko) 
-### Junior Front-end developer (trainee)
+### Junior Front-end developer 
+
 Address: 65-91 Kozhara str., 246000 Gomel, Belarus
 
 Mobile phone: +375447997787
