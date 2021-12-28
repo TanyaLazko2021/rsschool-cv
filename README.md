@@ -9,7 +9,7 @@ Email: tanyawin1003@gmail.com 
 
 Skype: live:463f0de6116c50e9
 ***
-#### Career Objective
+#### Career Objective:
 To become a highly qualified Front-end Developer.
 
 #### Language Skills:
