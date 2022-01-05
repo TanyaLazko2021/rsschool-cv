@@ -71,12 +71,16 @@ main, header, footer  {
 
      #About {
        color: purple;
+       
      }
 
      .section-title {
        text-align: center;
+       
      }
-      H2 {text-align: center;}
+      h1, h2 {
+        text-align: center;
+      }
 
       .footer_container {
         display: flex;
@@ -84,5 +88,6 @@ main, header, footer  {
         align-items: center;
       }
       .footer {
-        background-color:rgb(216, 192, 233); ;
+        background-color:rgb(216, 192, 233);
+        height: 10vh;
       }
