@@ -5,17 +5,18 @@ html {
 body {
     min-height: 100vh;
     font-family: 'Roboto';
+    font-size: 20px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    margin: 0; padding: 0;}
+    margin: 0; padding: 0;
+  }
 
     * {
         box-sizing: border-box;
       }
 
 main, header, footer  {
-     
      margin: 0;
      }
 
@@ -71,6 +72,7 @@ main, header, footer  {
 
      #About {
        color: purple;
+       line-height: 100px;
        
      }
 
@@ -80,7 +82,8 @@ main, header, footer  {
      }
       h1, h2 {
         text-align: center;
-      }
+        text-decoration-line:underline;
+            }
 
       .footer_container {
         display: flex;
